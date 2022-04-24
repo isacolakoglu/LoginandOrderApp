@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginandOrderApp</string>
+
+    <string name="username">Ad Soyad</string>
+    <string name="emailOrPhone">E-Posta/Telefon</string>
+    <string name="password">Şifre</string>
+    <string name="gender">Cinsiyet:</string>
+    <string name="male">Erkek</string>
+    <string name="female">Kadın</string>
+    <string name="software_agreement">KVKK Aydınlatma Metnini Okudum, Kabul Ediyorum.</string>
+    <string name="update">Kayıt Ol</string>
+    <string name="user2">Kullanıcı Görüntüsü</string>
+    <string name="Hosgeldiniz">Hoşgeldiniz</string>
+    <string name="AdSoyadText">Ad-Soyad</string>
+    <string name="EmailText">Email</string>
+
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="CheeseBurger">Domates, Soğan, Marul, Peynir, Ranch Sos, Et</string>
+    <string name="Pizza">Dominos sosu, ekstra mozzarella peyniri, pepperoni, jambon, sosis, zeytin, mısır, yeşil biber, taze mantar, kekik</string>
+    <string name="IcındekilerBtn">İçindekiler</string>
+    <string name="Small">Small</string>
+    <string name="Medium">Medium</string>
+    <string name="Large">Large</string>
+    <string name="Hesapla">HESAPLA</string>
+</resources>
